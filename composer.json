@@ -1,12 +1,12 @@
 {
-    "name": "fawaterk/fawaterk-sdk",
+    "name": "tarekhammad/fawaterk-sdk",
     "description": "Fawaterk API Integration made easier.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Michael Yousrie",
-            "email": "michael@fawaterk.com"
+            "name": "Tarek Hammad",
+            "email": "tarek@fahem.app"
         }
     ],
     "require": {},
