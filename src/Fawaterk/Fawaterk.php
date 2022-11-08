@@ -1,6 +1,6 @@
 <?php
 
-namespace Fawaterk;
+namespace tarekhammad;
 
 /**
  * Fawaterk Payment Integration.
