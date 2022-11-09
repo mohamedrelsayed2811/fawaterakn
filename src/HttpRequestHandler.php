@@ -7,7 +7,7 @@ class HttpRequestHandler
     /**
      * @var string $apiUrl
      */
-    private $apiUrl = "https://app.fawaterk.com/api/invoice";
+    private $apiUrl = "https://fawaterkstage.com/api/v2/invoiceInitPay";
 
     /**
      * Send the request to the API
